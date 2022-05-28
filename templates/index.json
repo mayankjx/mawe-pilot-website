@@ -187,7 +187,7 @@
             "link": ""
           }
         },
-        "column2": {
+        "327551bb-78aa-4bb2-8991-ab2478f74bfc": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -196,7 +196,7 @@
             "link": ""
           }
         },
-        "column3": {
+        "column2": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -208,8 +208,8 @@
       },
       "block_order": [
         "column1",
-        "column2",
-        "column3"
+        "327551bb-78aa-4bb2-8991-ab2478f74bfc",
+        "column2"
       ],
       "settings": {
         "title": "",
