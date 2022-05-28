@@ -47,6 +47,7 @@
 .collection__description > * {
   margin: 0;
   text-align: center;
+  max-width: 1140px;
 }
 
 .collection__title.title-wrapper {
