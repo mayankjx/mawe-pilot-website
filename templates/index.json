@@ -106,6 +106,7 @@
     },
     "rich_text": {
       "type": "rich-text",
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
@@ -140,8 +141,52 @@
         "padding_bottom": 36
       }
     },
+    "1653729722bb1babc3": {
+      "type": "image-with-text",
+      "blocks": {
+        "16537297229276133b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brief about of brand",
+            "heading_size": "h1"
+          }
+        },
+        "16537297229276133b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Lorem Ipsum<\/strong> is simply dummy text of the printing and <br\/>typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <\/p><p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p><p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16537297229276133b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "ABOUT OUR BRAND",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16537297229276133b-0",
+        "16537297229276133b-1",
+        "16537297229276133b-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -180,6 +225,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -250,6 +296,7 @@
     "165372947595445eb3",
     "rich_text",
     "featured_collection",
+    "1653729722bb1babc3",
     "collage",
     "video",
     "multicolumn"
