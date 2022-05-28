@@ -8,26 +8,26 @@
         "padding_bottom": 0
       }
     },
-    "165373877864e0b480": {
-      "type": "rich-text",
+    "16537495549f4a2d57": {
+      "type": "rich-text-left",
       "blocks": {
-        "8482a41b-b2e1-4545-849a-ec6460327864": {
+        "16537495543a103339-0": {
           "type": "heading",
           "settings": {
             "heading": "Contact Us",
             "heading_size": "h0"
           }
         },
-        "16537387781e6572f4-1": {
+        "16537495543a103339-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Questions? Don't hesitate to drop us a message. Our Customer Care team will get back to you within 24 hours. If you're inquiring about your <br\/>order, don't forget to include your order number!<br\/>      <\/p>"
+            "text": "<p>Questions? Don't hesitate to drop us a message. Our Customer Care team will get back to you within 24 hours. If you're inquiring about your order, don't forget to include your order number!<br\/><\/p>"
           }
         }
       },
       "block_order": [
-        "8482a41b-b2e1-4545-849a-ec6460327864",
-        "16537387781e6572f4-1"
+        "16537495543a103339-0",
+        "16537495543a103339-1"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -49,7 +49,7 @@
   },
   "order": [
     "main",
-    "165373877864e0b480",
+    "16537495549f4a2d57",
     "form"
   ]
 }
