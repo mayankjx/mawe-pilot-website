@@ -175,6 +175,27 @@
         "padding_bottom": 36
       }
     },
+    "16537546524c9f6f46": {
+      "type": "rich-text",
+      "blocks": {
+        "16537546526602b973-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "WHAT PEOPLE ARE SAYING",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16537546526602b973-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -234,6 +255,7 @@
     "165372947595445eb3",
     "featured_collection",
     "1653729722bb1babc3",
+    "16537546524c9f6f46",
     "multicolumn"
   ]
 }
