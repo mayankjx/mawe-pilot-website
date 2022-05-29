@@ -2197,7 +2197,7 @@ input[type="checkbox"] {
   font-size: 1.6rem;
 }
 
-@media only screen and (min-width: 750px) {
+@media only screen and (max-width: 750px) {
   .announcement-bar__message {
     font-size: calc(var(--font-heading-scale) * 1.3rem);
   }
