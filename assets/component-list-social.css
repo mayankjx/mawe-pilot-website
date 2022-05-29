@@ -2,12 +2,17 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
+  margin: 2rem 0;
 }
 
 @media only screen and (max-width: 749px) {
   .list-social {
     justify-content: center;
   }
+}
+
+.list-social__item {
+  align-self: center;
 }
 
 .list-social__item .icon {

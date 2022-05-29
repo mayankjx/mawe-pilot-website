@@ -93,10 +93,7 @@
                 {%- endcase -%}
             </div>
           {%- endfor -%}
-        </div>
-      {%- endif -%}
-
-      <div class="footer-block--newsletter">
+          <div class="footer-block--newsletter grid__item">
         {%- if section.settings.newsletter_enable -%}
           <div class="footer-block__newsletter">
             {%- if section.settings.newsletter_heading != blank -%}
@@ -142,10 +139,9 @@
               {%- endif -%}
             {%- endform -%}
           </div>
-        {%- endif -%}
-
+        </div>
         {%- if section.settings.show_social -%}
-          <ul class="footer__list-social list-unstyled list-social" role="list">
+          <ul class="footer__list-social list-unstyled list-social grid__item" role="list">
             {%- if settings.social_twitter_link != blank -%}
               <li class="list-social__item">
                 <a href="{{ settings.social_twitter_link }}" class="link list-social__link" >
@@ -220,7 +216,14 @@
             {%- endif -%}
           </ul>
         {%- endif -%}
+        
+        {%- endif -%}
+
+        
       </div>
+      {%- endif -%}
+
+      
     </div>
   {%- endif -%}
 
