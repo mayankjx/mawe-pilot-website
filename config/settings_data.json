@@ -144,19 +144,11 @@
               "heading": "Quick links",
               "menu": "footer"
             }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Info",
-              "menu": "footer"
-            }
           }
         },
         "block_order": [
           "footer-2",
-          "footer-0",
-          "footer-1"
+          "footer-0"
         ],
         "settings": {
           "color_scheme": "inverse",
