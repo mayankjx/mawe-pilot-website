@@ -42,19 +42,15 @@
   .collection .slider--tablet.product-grid {
     scroll-padding-left: 1.5rem;
   }
-  .collection__description .body {
+  .collection__description > * {
     max-width: 100%;
   }
 }
 
 .collection__description > * {
-  margin: 0;
-  text-align: center;
-}
-
-.collection__description .body {
   max-width: 70%;
   margin: auto;
+  text-align: center;
 }
 
 .collection__title.title-wrapper {
