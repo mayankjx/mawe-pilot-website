@@ -251,19 +251,17 @@
     },
     "1653804926083139fa": {
       "type": "apps",
-      "blocks": {
-        "65a35d3c-e1df-4679-9663-a9870a2637a6": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "65a35d3c-e1df-4679-9663-a9870a2637a6"
-      ],
       "settings": {
         "include_margins": true
+      }
+    },
+    "1653806538886a9fa2": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"reputon-testimonials-widget\" id=\"8477c160-df19-11ec-89e8-098fe3796e37\" ><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -274,6 +272,7 @@
     "1653729722bb1babc3",
     "16537546524c9f6f46",
     "multicolumn",
-    "1653804926083139fa"
+    "1653804926083139fa",
+    "1653806538886a9fa2"
   ]
 }
