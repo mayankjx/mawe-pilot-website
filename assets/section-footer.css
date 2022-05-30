@@ -152,6 +152,17 @@
   font-size: calc(var(--font-heading-scale) * 1.6rem);
 }
 
+.footer__blocks-logo img {
+  height: auto;
+  width: 20rem;
+}
+
+@media screen and (max-width: 750px) {
+  .footer-block {
+    text-align: center;
+  }
+}
+
 @media screen and (min-width: 990px) {
   .footer-block__heading {
     font-size: calc(var(--font-heading-scale) * 1.8rem);
