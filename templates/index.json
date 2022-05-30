@@ -215,7 +215,8 @@
       "type": "call-to-action",
       "settings": {
         "text-box": "Shop Now",
-        "link": ""
+        "link": "",
+        "image": "shopify:\/\/shop_images\/ring.png"
       }
     }
   },
