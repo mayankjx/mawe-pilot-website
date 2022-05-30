@@ -214,7 +214,7 @@
     "165389015814023f28": {
       "type": "call-to-action",
       "settings": {
-        "text-box": "Shop Now",
+        "text-box": "",
         "link": "",
         "image": "shopify:\/\/shop_images\/ring.png"
       }
