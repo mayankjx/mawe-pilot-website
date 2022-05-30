@@ -205,6 +205,14 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "165389015814023f28": {
+      "type": "call-to-action",
+      "settings": {
+        "text-box": "Shop Now",
+        "link": "",
+        "linktext": "Click here"
+      }
     }
   },
   "order": [
@@ -214,6 +222,7 @@
     "1653729722bb1babc3",
     "16537546524c9f6f46",
     "1653804926083139fa",
-    "1653806538886a9fa2"
+    "1653806538886a9fa2",
+    "165389015814023f28"
   ]
 }
