@@ -2922,3 +2922,10 @@ details-disclosure > details {
 .red-h1 {
   color: red;
 }
+
+.sticky-call-to-action {
+  position: fixed;
+  right: 1%;
+  top: 80vh;
+  z-index: 100;
+}
