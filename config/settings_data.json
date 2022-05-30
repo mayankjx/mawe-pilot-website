@@ -135,8 +135,7 @@
             "type": "text",
             "settings": {
               "heading": "Logo space",
-              "subtext": "",
-              "image": "shopify:\/\/shop_images\/shopping-cart_1.png"
+              "subtext": ""
             }
           },
           "footer-0": {
