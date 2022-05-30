@@ -55,7 +55,17 @@
               {%- if block.settings.heading != blank -%}
                 <h2 class="footer-block__heading">{{- block.settings.heading | escape -}}</h2>
               {%- endif -%}
-              
+              <div class = "footer__blocks-logo">
+              <img
+                        srcset= "{{ block.settings.image | image_url: width: block.settings.image_width }}, {{ block.settings.image | image_url: width: image_size_2x }} 2x"
+                        src="{{ block.settings.image | image_url: width: 400 }}"
+                        alt="{{ block.settings.image.alt | escape }}"
+                        loading="lazy"
+                        width="{{ block.settings.image.width }}"
+                        height="{{ block.settings.image.height }}"
+                        style="max-width: min(100%, {{ block.settings.image_width }}px);"
+                      >
+              </div>
               {%- case block.type -%}
                 {%- when 'text' -%}
                   <div class="footer-block__details-content rte">
@@ -436,11 +446,7 @@
         {
           "type" : "image_picker",
           "id" : "image",
-<<<<<<< HEAD
           "label" : "Image",
-=======
-          "label" : "Image"
->>>>>>> e8605b439672d92e1dd33910703add95d88fbcff
         }
       ]
     },
