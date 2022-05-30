@@ -135,7 +135,8 @@
             "type": "text",
             "settings": {
               "heading": "Logo space",
-              "subtext": ""
+              "subtext": "",
+              "image": "shopify:\/\/shop_images\/mike-petrucci-c9FQyqIECds-unsplash.jpg"
             }
           },
           "footer-0": {
