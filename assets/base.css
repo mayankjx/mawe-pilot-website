@@ -2929,3 +2929,7 @@ details-disclosure > details {
   top: 80vh;
   z-index: 100;
 }
+
+.sticky-call-to-action img {
+  height: 7rem;
+}
