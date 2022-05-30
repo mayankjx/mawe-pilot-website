@@ -35,6 +35,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/mike-petrucci-c9FQyqIECds-unsplash.jpg",
         "image_overlay_opacity": 60,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -53,6 +54,7 @@
         "16537294758336e8e8-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/bracelet.png",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -62,6 +64,7 @@
         "16537294758336e8e8-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/ring.png",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -71,6 +74,7 @@
         "16537294758336e8e8-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/wristwatch.png",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -158,6 +162,7 @@
         "16537297229276133b-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/manny-becerra-0sihmMSmnoE-unsplash.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -210,8 +215,7 @@
       "type": "call-to-action",
       "settings": {
         "text-box": "Shop Now",
-        "link": "",
-        "linktext": "Click here"
+        "link": ""
       }
     }
   },
