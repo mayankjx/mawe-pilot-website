@@ -2,7 +2,7 @@
   <h2>{{ section.settings.text-box }}</h2>
 
   <a href="{{ section.settings.link }}">
-  <img src = "{{ section.settings.image }}">
+  <img src = "{{ section.settings.image | img_url:'master' }}">
   </a>
 </div>
 
