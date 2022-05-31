@@ -10,7 +10,6 @@
     },
     "16539789008da0a0ee": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
         "custom_liquid": "<section id=\"shopify-section-template--14759533019170__165397842145fd230a\" class=\"shopify-section section\"><link href=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/t\/3\/assets\/section-image-banner.css?v=176487564440668880141653722159\" rel=\"stylesheet\" type=\"text\/css\" media=\"all\">\n<style data-shopify=\"\">#Banner-template--14759533019170__165397842145fd230a::after {\n    opacity: 0.4;\n  }<\/style><div id=\"Banner-template--14759533019170__165397842145fd230a\" class=\"banner banner--content-align-center banner--content-align-mobile-center banner--small\"><div class=\"banner__media media\">\n      <img srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=375 375w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=550 550w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=750 750w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=1100 1100w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=1500 1500w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=1780 1780w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=2000 2000w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=3000 3000w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=3840 3840w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519 4096w\" sizes=\"100vw\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=1500\" loading=\"lazy\" alt=\"\" width=\"4096\" height=\"2730.0\">\n    <\/div><div class=\"banner__content banner__content--middle-left page-width\">\n    <div class=\"banner__box content-container content-container--full-width-mobile color-accent-1 gradient\" style=\"\n    background: none;\n\"><h2 class=\"banner__heading h0\" style=\"\n    font-weight: 700;\n    font-size: 8rem;\n\">\n              <span>OUR STORY<\/span>\n            <\/h2><\/div>\n  <\/div>\n<\/div>\n\n\n<\/section>",
         "color_scheme": "background-1",
@@ -20,6 +19,7 @@
     },
     "165397842145fd230a": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "594aa9e4-b2c9-4567-b130-3e036e3ebe60": {
           "type": "heading",
