@@ -2,9 +2,38 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "165397842145fd230a": {
+      "type": "image-banner",
+      "blocks": {
+        "594aa9e4-b2c9-4567-b130-3e036e3ebe60": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUR STORY",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "594aa9e4-b2c9-4567-b130-3e036e3ebe60"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mixes-flower-stall.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "1653931267f5b18629": {
@@ -171,6 +200,7 @@
   },
   "order": [
     "main",
+    "165397842145fd230a",
     "1653931267f5b18629",
     "1653931296b20314dc",
     "1653931373232021e2",
