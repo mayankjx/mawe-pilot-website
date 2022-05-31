@@ -151,7 +151,6 @@
     },
     "1653931373232021e2": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "165393137379060f6f-0": {
           "type": "heading",
@@ -195,16 +194,7 @@
         "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
-    "1653976342285a4689": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<section id=\"shopify-section-template--14759533019170__1653931373232021e2\" class=\"shopify-section section\"><link href=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/t\/3\/assets\/section-image-banner.css?v=176487564440668880141653722159\" rel=\"stylesheet\" type=\"text\/css\" media=\"all\">\n<style data-shopify=\"\">#Banner-template--14759533019170__1653931373232021e2::after {\n    opacity: 0.5;\n  }<\/style><div id=\"Banner-template--14759533019170__1653931373232021e2\" class=\"banner banner--content-align-left banner--content-align-mobile-left banner--medium banner--mobile-bottom\"><div class=\"banner__media media\">\n      <img srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=375 375w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=550 550w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=750 750w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=1100 1100w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=1500 1500w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=1780 1780w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=2000 2000w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=3000 3000w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=3840 3840w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130 4096w\" sizes=\"100vw\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=1500\" loading=\"lazy\" alt=\"\" width=\"4096\" height=\"2832.0\">\n    <\/div><div class=\"banner__content banner__content--middle-left page-width\">\n    <div class=\"banner__box content-container content-container--full-width-mobile color-inverse gradient\" style=\"\n    background: none;\n    max-width: 120rem;\n\"><h2 class=\"banner__heading h1\" style=\"\n    font-size: 5.2rem;\n\">\n              <span>Ready to start a first-class grooming routine?<\/span>\n            <\/h2><div class=\"banner__text body\">\n              <span>Amazing hair is one click away.<\/span>\n            <\/div><div class=\"banner__buttons\"><a href=\"\/collections\/all\" class=\"button button--primary\">Shop Now<\/a><\/div><\/div>\n  <\/div>\n<\/div>\n\n\n<\/section>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "show_text_below": false
       }
     }
   },
@@ -214,7 +204,6 @@
     "165397842145fd230a",
     "1653931267f5b18629",
     "1653931296b20314dc",
-    "1653931373232021e2",
-    "1653976342285a4689"
+    "1653931373232021e2"
   ]
 }
