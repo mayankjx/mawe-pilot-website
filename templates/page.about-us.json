@@ -2,9 +2,48 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "16539789008da0a0ee": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<section id=\"shopify-section-template--14759533019170__165397842145fd230a\" class=\"shopify-section section\"><link href=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/t\/3\/assets\/section-image-banner.css?v=176487564440668880141653722159\" rel=\"stylesheet\" type=\"text\/css\" media=\"all\">\n<style data-shopify=\"\">#Banner-template--14759533019170__165397842145fd230a::after {\n    opacity: 0.4;\n  }<\/style><div id=\"Banner-template--14759533019170__165397842145fd230a\" class=\"banner banner--content-align-center banner--content-align-mobile-center banner--small\"><div class=\"banner__media media\">\n      <img srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=375 375w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=550 550w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=750 750w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=1100 1100w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=1500 1500w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=1780 1780w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=2000 2000w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=3000 3000w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=3840 3840w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519 4096w\" sizes=\"100vw\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/mixes-flower-stall.jpg?v=1653978519&amp;width=1500\" loading=\"lazy\" alt=\"\" width=\"4096\" height=\"2730.0\">\n    <\/div><div class=\"banner__content banner__content--middle-left page-width\">\n    <div class=\"banner__box content-container content-container--full-width-mobile color-accent-1 gradient\" style=\"\n    background: none;\n\"><h2 class=\"banner__heading h0\" style=\"\n    font-weight: 700;\n    font-size: 8rem;\n\">\n              <span>OUR STORY<\/span>\n            <\/h2><\/div>\n  <\/div>\n<\/div>\n\n\n<\/section>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "165397842145fd230a": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "594aa9e4-b2c9-4567-b130-3e036e3ebe60": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUR STORY",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "594aa9e4-b2c9-4567-b130-3e036e3ebe60"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mixes-flower-stall.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "1653931267f5b18629": {
@@ -13,14 +52,14 @@
         "165393126781b84bf2-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "﻿﻿Our Mission",
             "heading_size": "h1"
           }
         },
         "165393126781b84bf2-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Our mission at Forte Series has always been to help guys look their best. When a guy looks good, he feels good. When he feels good, he’s ready to capture every opportunity that comes his way. Quality branding, packaging, community of like-minded guys and honest education has been our focus since day one.<\/p>",
             "text_style": "body"
           }
         }
@@ -30,6 +69,7 @@
         "165393126781b84bf2-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/rooftop-crowd-cheers-for-sun.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -38,7 +78,7 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 12,
         "padding_bottom": 36
       }
     },
@@ -48,8 +88,9 @@
         "1653931296484f87e9-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
+            "title": "ALEX",
+            "text": "<p>Founder<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -57,8 +98,9 @@
         "1653931296484f87e9-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/person-tilts-their-head-up-and-looks-at-the-camera.jpg",
+            "title": "BRIAN",
+            "text": "<p>General Manager<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -66,8 +108,9 @@
         "1653931296484f87e9-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/man-in-suit-on-stairs.jpg",
+            "title": "RYAN",
+            "text": "<p>Cheif Operation Manager<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -75,8 +118,9 @@
         "1a98e8b0-9fb0-4268-9fec-b0dfdc116fe0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/black-and-white-portrait-mens-fashion.jpg",
+            "title": "MATT",
+            "text": "<p>Project Manager<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -91,14 +135,14 @@
       "settings": {
         "title": "Meet the team",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "half",
+        "image_ratio": "circle",
         "columns_desktop": 4,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -107,18 +151,19 @@
     },
     "1653931373232021e2": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "165393137379060f6f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Ready to start a first-class grooming routine?",
             "heading_size": "h1"
           }
         },
         "165393137379060f6f-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Amazing hair is one click away.",
             "text_style": "body"
           }
         },
@@ -126,7 +171,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "",
+            "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -140,23 +185,36 @@
         "165393137379060f6f-2"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/woman-in-white-dress-outside.jpg",
+        "image_overlay_opacity": 50,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "1653979439e278447a": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<section id=\"shopify-section-template--14759533019170__1653931373232021e2\" class=\"shopify-section section\"><link href=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/t\/3\/assets\/section-image-banner.css?v=176487564440668880141653722159\" rel=\"stylesheet\" type=\"text\/css\" media=\"all\">\n<style data-shopify=\"\">#Banner-template--14759533019170__1653931373232021e2::after {\n    opacity: 0.5;\n  }<\/style><div id=\"Banner-template--14759533019170__1653931373232021e2\" class=\"banner banner--content-align-left banner--content-align-mobile-left banner--medium\"><div class=\"banner__media media\">\n      <img srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=375 375w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=550 550w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=750 750w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=1100 1100w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=1500 1500w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=1780 1780w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=2000 2000w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=3000 3000w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=3840 3840w,\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130 4096w\" sizes=\"100vw\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0578\/3224\/3234\/files\/woman-in-white-dress-outside.jpg?v=1653976130&amp;width=1500\" loading=\"lazy\" alt=\"\" width=\"4096\" height=\"2832.0\">\n    <\/div><div class=\"banner__content banner__content--middle-left page-width\">\n    <div class=\"banner__box content-container content-container--full-width-mobile color-inverse gradient\" style=\"background: none;max-width: 120rem;\"><h2 class=\"banner__heading h1\" style=\"font-size: 6rem;\">\n              <span>Ready to start a first-class grooming routine?<\/span>\n            <\/h2><div class=\"banner__text body\">\n              <span>Amazing hair is one click away.<\/span>\n            <\/div><div class=\"banner__buttons\"><a href=\"\/collections\/all\" class=\"button button--primary\">Shop Now<\/a><\/div><\/div>\n  <\/div>\n<\/div>\n\n\n<\/section>",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
   "order": [
     "main",
+    "16539789008da0a0ee",
+    "165397842145fd230a",
     "1653931267f5b18629",
     "1653931296b20314dc",
-    "1653931373232021e2"
+    "1653931373232021e2",
+    "1653979439e278447a"
   ]
 }
