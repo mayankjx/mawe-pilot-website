@@ -154,7 +154,7 @@
         "desktop_content_alignment": "left",
         "color_scheme": "background-2",
         "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     }
