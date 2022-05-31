@@ -13,14 +13,14 @@
         "165393126781b84bf2-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "﻿﻿Our Mission",
             "heading_size": "h1"
           }
         },
         "165393126781b84bf2-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Our mission at Forte Series has always been to help guys look their best. When a guy looks good, he feels good. When he feels good, he’s ready to capture every opportunity that comes his way. Quality branding, packaging, community of like-minded guys and honest education has been our focus since day one.<\/p>",
             "text_style": "body"
           }
         }
@@ -30,6 +30,7 @@
         "165393126781b84bf2-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/rooftop-crowd-cheers-for-sun.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -48,8 +49,9 @@
         "1653931296484f87e9-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
+            "title": "ALEX",
+            "text": "<p>Founder<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -57,8 +59,9 @@
         "1653931296484f87e9-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/person-tilts-their-head-up-and-looks-at-the-camera.jpg",
+            "title": "BRIAN",
+            "text": "<p>General Manager<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -66,8 +69,9 @@
         "1653931296484f87e9-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/man-in-suit-on-stairs.jpg",
+            "title": "RYAN",
+            "text": "<p>Cheif Operation Manager<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -75,8 +79,9 @@
         "1a98e8b0-9fb0-4268-9fec-b0dfdc116fe0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/black-and-white-portrait-mens-fashion.jpg",
+            "title": "MATT",
+            "text": "<p>Project Manager<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -91,14 +96,14 @@
       "settings": {
         "title": "Meet the team",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "half",
+        "image_ratio": "circle",
         "columns_desktop": 4,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -111,14 +116,14 @@
         "165393137379060f6f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Ready to start a first-class grooming routine?",
             "heading_size": "h1"
           }
         },
         "165393137379060f6f-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Amazing hair is one click away.",
             "text_style": "body"
           }
         },
@@ -126,7 +131,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "",
+            "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -140,14 +145,15 @@
         "165393137379060f6f-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/woman-in-white-dress-outside.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
