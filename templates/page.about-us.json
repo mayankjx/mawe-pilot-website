@@ -146,13 +146,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/woman-in-white-dress-outside.jpg",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 50,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": false,
         "show_text_below": true
