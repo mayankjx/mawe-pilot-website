@@ -54,9 +54,9 @@
         "16537294758336e8e8-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bracelet.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/noun-skincare-3447159.png",
+            "title": "",
+            "text": "<p>To the point skincare products<\/p><p>No fancy bells and whistles<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -64,9 +64,9 @@
         "16537294758336e8e8-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ring.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/noun-natural-product-2018495.png",
+            "title": "",
+            "text": "<p>All plant based<\/p><p>100% Skin Safe<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -74,9 +74,9 @@
         "16537294758336e8e8-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wristwatch.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/noun-low-price-4504585.png",
+            "title": "",
+            "text": "<p>Great discounts on monthly subscrioptions<\/p><p>Easy on pocket<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -202,6 +202,14 @@
         "include_margins": true
       }
     },
+    "165389015814023f28": {
+      "type": "call-to-action",
+      "settings": {
+        "text-box": "",
+        "link": "shopify:\/\/collections\/all",
+        "image": "shopify:\/\/shop_images\/Untitled-1.gif"
+      }
+    },
     "1653806538886a9fa2": {
       "type": "custom-liquid",
       "settings": {
@@ -209,14 +217,6 @@
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "165389015814023f28": {
-      "type": "call-to-action",
-      "settings": {
-        "text-box": "",
-        "link": "shopify:\/\/collections\/all",
-        "image": "shopify:\/\/shop_images\/shopping-cart_1.png"
       }
     }
   },
@@ -227,7 +227,7 @@
     "1653729722bb1babc3",
     "16537546524c9f6f46",
     "1653804926083139fa",
-    "1653806538886a9fa2",
-    "165389015814023f28"
+    "165389015814023f28",
+    "1653806538886a9fa2"
   ]
 }
