@@ -100,7 +100,7 @@
         "description": "<p>It's time to ditch the cheap, toxic, greasy drugstore products.It's 2022. You deserve amazing hair, gain confidence with your own first-class grooming routine.<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "face-wash-orange",
+        "collection": "all",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
@@ -125,7 +125,7 @@
         "16537297229276133b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Brief about of brand",
+            "heading": "Our  Brand & Ideologies",
             "heading_size": "h1"
           }
         },
@@ -150,8 +150,8 @@
         "16537297229276133b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/manny-becerra-0sihmMSmnoE-unsplash.jpg",
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/no-revisions-WvxL8m1AoAE-unsplash.jpg",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
