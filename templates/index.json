@@ -6,37 +6,25 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "good going",
+            "heading": "",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "text": "",
             "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "SHOP NOW",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "button"
+        "text"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mike-petrucci-c9FQyqIECds-unsplash.jpg",
-        "image_overlay_opacity": 60,
+        "image": "shopify:\/\/shop_images\/banner_5a15b902-a39d-4d2e-9986-ae016606c156.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
@@ -207,7 +195,7 @@
       "settings": {
         "text-box": "",
         "link": "shopify:\/\/collections\/all",
-        "image": "shopify:\/\/shop_images\/Untitled-1.gif"
+        "image": "shopify:\/\/shop_images\/Untitled-1_1_76f950a8-c1c1-4226-bb36-eb4ff1d70378.png"
       }
     },
     "1653806538886a9fa2": {
