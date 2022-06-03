@@ -36,13 +36,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pexels-uncle-lee-2825477.jpg",
-        "image_overlay_opacity": 60,
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "top-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
