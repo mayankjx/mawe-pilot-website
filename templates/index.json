@@ -54,9 +54,9 @@
         "16537294758336e8e8-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bracelet.png",
+            "image": "shopify:\/\/shop_images\/noun-skincare-3447159.png",
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>To the point skincare products<\/p><p>No fancy bells and whistles<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -64,9 +64,9 @@
         "16537294758336e8e8-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ring.png",
+            "image": "shopify:\/\/shop_images\/noun-natural-product-2018495.png",
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>All plant based<\/p><p>100% Skin Safe<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -74,9 +74,9 @@
         "16537294758336e8e8-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wristwatch.png",
+            "image": "shopify:\/\/shop_images\/noun-low-price-4504585.png",
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Great discounts on monthly subscrioptions<\/p><p>Easy on pocket<\/p>",
             "link_label": "",
             "link": ""
           }
