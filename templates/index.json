@@ -14,7 +14,7 @@
           "type": "text",
           "settings": {
             "text": "We, at KAWA believe that women are a beautiful creation of god. Hence, to celebrate this creation, we crafted a range of beautycare products made of natural extracts.",
-            "text_style": "body"
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "button": {
