@@ -132,11 +132,12 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-2": {
-            "type": "text",
+          "c8c30568-3a7a-4187-9f25-2fd17a673838": {
+            "type": "image",
             "settings": {
-              "heading": "Logo space",
-              "subtext": ""
+              "image": "shopify:\/\/shop_images\/512.png",
+              "image_width": 95,
+              "alignment": "center"
             }
           },
           "footer-0": {
@@ -148,7 +149,7 @@
           }
         },
         "block_order": [
-          "footer-2",
+          "c8c30568-3a7a-4187-9f25-2fd17a673838",
           "footer-0"
         ],
         "settings": {
