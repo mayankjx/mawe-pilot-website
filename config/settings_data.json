@@ -137,8 +137,9 @@
           "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "Logo space",
-              "subtext": ""
+              "heading": "",
+              "subtext": "",
+              "image": "shopify:\/\/shop_images\/512_f63f7e51-c074-42d2-8952-36c74a1a17e2.png"
             }
           },
           "footer-0": {
