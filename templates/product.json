@@ -43,7 +43,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget est ac turpis tristique feugiat. Ut at lorem ac risus imperdiet efficitur. Sed sed ex fringilla, feugiat eros ut, varius tortor.</p>",
             "page": ""
           }
         },
@@ -52,7 +52,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget est ac turpis tristique feugiat. Ut at lorem ac risus imperdiet efficitur. Sed sed ex fringilla, feugiat eros ut, varius tortor.</p>",
             "page": ""
           }
         },
@@ -61,7 +61,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget est ac turpis tristique feugiat. Ut at lorem ac risus imperdiet efficitur. Sed sed ex fringilla, feugiat eros ut, varius tortor.</p>",
             "page": ""
           }
         },
