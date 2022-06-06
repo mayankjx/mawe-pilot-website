@@ -2943,6 +2943,20 @@ details-disclosure > details {
   display: inline;
 }
 
+.sticky-call-to-action img {
+  height: 6rem;
+}
+
+.sticky-call-to-action a {
+  text-decoration: none;
+}
+
+.sticky-call-to-action h2 {
+  margin: 0;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
 @media screen and (max-width: 750px) {
   .sticky-call-to-action {
     left: 40px;
@@ -2960,19 +2974,7 @@ details-disclosure > details {
 
   .sticky-call-to-action h2 {
     font-size: 1rem;
+    position: relative;
+    bottom: 8px;
   }
-}
-
-.sticky-call-to-action img {
-  height: 6rem;
-}
-
-.sticky-call-to-action a {
-  text-decoration: none;
-}
-
-.sticky-call-to-action h2 {
-  margin: 0;
-  font-weight: 700;
-  font-size: 1.2rem;
 }
