@@ -2383,6 +2383,12 @@ input[type="checkbox"] {
   vertical-align: middle;
 }
 
+@media screen and(max-width:750px) {
+  .icon-search {
+    display: none;
+  }
+}
+
 .header__icon,
 .header__icon--cart .icon {
   height: 3.5rem;
