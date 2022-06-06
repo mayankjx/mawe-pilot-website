@@ -2948,3 +2948,7 @@ details-disclosure > details {
 .sticky-call-to-action a {
   text-decoration: none;
 }
+
+.sticky-call-to-action h2 {
+  margin: 0;
+}
