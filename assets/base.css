@@ -2932,6 +2932,12 @@ details-disclosure > details {
   z-index: 100;
 }
 
+@media screen and (max-width: 750px) {
+  .sticky-call-to-action {
+    left: 40px;
+  }
+}
+
 .sticky-call-to-action img {
   height: 7rem;
 }
