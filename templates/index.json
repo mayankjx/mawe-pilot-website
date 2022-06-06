@@ -193,7 +193,7 @@
     "165389015814023f28": {
       "type": "call-to-action",
       "settings": {
-        "text-box": "",
+        "text-box": "BUY NOW",
         "link": "shopify:\/\/collections\/all",
         "image": "shopify:\/\/shop_images\/Untitled-1_b02b4bef-f3c9-44a0-a806-2686a2c3b7a2.gif"
       }
