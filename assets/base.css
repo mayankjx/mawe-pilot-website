@@ -2930,6 +2930,7 @@ details-disclosure > details {
   right: 40px;
   bottom: 40px;
   z-index: 100;
+  text-align: center;
 }
 
 @media screen and (max-width: 750px) {
