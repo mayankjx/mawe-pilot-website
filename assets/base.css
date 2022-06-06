@@ -2931,14 +2931,20 @@ details-disclosure > details {
   bottom: 40px;
   z-index: 100;
   text-align: center;
+  display: inline;
 }
 
 @media screen and (max-width: 750px) {
   .sticky-call-to-action {
     left: 40px;
+    max-width: 100px;
   }
 }
 
 .sticky-call-to-action img {
   height: 7rem;
+}
+
+.sticky-call-to-action a {
+  text-decoration: none;
 }
