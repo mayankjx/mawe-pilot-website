@@ -2927,8 +2927,8 @@ details-disclosure > details {
 
 .sticky-call-to-action {
   position: fixed;
-  right: 1%;
-  top: 80vh;
+  right: 40px;
+  bottom: 40px;
   z-index: 100;
 }
 
