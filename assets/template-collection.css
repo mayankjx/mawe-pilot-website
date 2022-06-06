@@ -38,19 +38,20 @@
   margin-bottom: 15rem;
 }
 
-@media screen and (max-width: 989px) {
-  .collection .slider--tablet.product-grid {
-    scroll-padding-left: 1.5rem;
-  }
-  .collection__description > * {
-    max-width: 100%;
-  }
-}
-
 .collection__description > * {
   max-width: 70%;
   margin: auto;
   text-align: center;
+}
+
+@media screen and (max-width: 989px) {
+  .collection .slider--tablet.product-grid {
+    scroll-padding-left: 1.5rem;
+  }
+
+  .collection__description p {
+    max-width: 100%;
+  }
 }
 
 .collection__title.title-wrapper {

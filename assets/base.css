@@ -2975,6 +2975,6 @@ details-disclosure > details {
   .sticky-call-to-action h2 {
     font-size: 1rem;
     position: relative;
-    bottom: 8px;
+    bottom: 4px;
   }
 }
