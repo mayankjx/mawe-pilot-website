@@ -2951,4 +2951,6 @@ details-disclosure > details {
 
 .sticky-call-to-action h2 {
   margin: 0;
+  font-weight: 700;
+  font-size: 1.6rem;
 }
