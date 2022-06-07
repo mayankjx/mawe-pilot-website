@@ -79,7 +79,7 @@
   }
 
   .banner--medium:not(.banner--adapt) {
-    max-height: 56rem;
+    height: 56rem;
   }
 
   .banner--large:not(.banner--adapt) {
