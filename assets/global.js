@@ -1119,9 +1119,9 @@ let imageBanner = document.querySelector(
 
 function resizeHeaderHeight(mediaQueryMobile) {
   if (mediaQueryMobile.matches) {
-    imageBanner.classList.remove("banner--adapt");
-  } else {
     imageBanner.classList.add("banner--adapt");
+  } else {
+    imageBanner.classList.remove("banner--adapt");
   }
 }
 
