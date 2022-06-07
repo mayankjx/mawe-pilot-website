@@ -192,7 +192,7 @@
   }
 
   .banner--stacked.banner--adapt .banner__content {
-    height: auto;
+    height: 22rem;
   }
 
   .banner:not(.banner--mobile-bottom):not(.email-signup-banner) .banner__box {
